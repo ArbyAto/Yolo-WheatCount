@@ -1,1 +1,1 @@
-# Yolo-WheatCount
+# Yolo-WheatRecog
